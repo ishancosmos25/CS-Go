@@ -3,3 +3,6 @@ Computer Science Go - lists all useful articles categorised under subheadings th
 
 * https://jvns.ca/networking-zine.pdf
 * https://medium.com/@maneesha.wijesinghe1/what-happens-when-you-type-an-url-in-the-browser-and-press-enter-bb0aa2449c1a
+
+## Why ShapeUp over Agile-Scrum/Kanban
+* https://basecamp.com/shapeup/webbook
